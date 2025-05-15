@@ -33,3 +33,5 @@ clean:
 	-rm -r *.nav
 	-rm -r *.run.xml
 	-rm -r *.synctex.gz
+	-rm -r *.bbl-SAVE-ERROR
+	-rm -r *.bcf-SAVE-ERROR

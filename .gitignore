@@ -28,3 +28,5 @@ _minted-Main/
 *.nav
 *.svg
 _minted-main/
+*.bbl-SAVE-ERROR
+*.bcf-SAVE-ERROR
